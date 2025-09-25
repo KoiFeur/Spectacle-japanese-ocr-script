@@ -5,7 +5,6 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import PIL.Image
 from manga_ocr import MangaOcr
-import os
  
 class OnMyWatch:
     # Set the directory on watch
