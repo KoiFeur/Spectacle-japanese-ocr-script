@@ -1,4 +1,4 @@
-# Spectacle Japanese Ocular Character Recognition Script
+# Spectacle Japanese Optical Character Recognition Script
 
 Run it with 
 
