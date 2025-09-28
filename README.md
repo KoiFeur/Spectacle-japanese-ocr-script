@@ -6,6 +6,6 @@ Run it with
 uv run main.py
 ```
 
-The script will scan the /tmp/Spectacle directory and will automatically recognise from screenshots taken japanese characters and put them at the bottom of the file ./jpn.txt
+The script scan the /tmp/Spectacle directory and automatically recognise japanese characters from screenshots taken and put them at the bottom of the file ./jpn.txt
 
 !!! Slow the computer by a lot !!!
